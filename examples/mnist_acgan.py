@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-#Train an Auxiliary Classifier GAN (ACGAN) on the MNIST dataset.
+# Train an Auxiliary Classifier GAN (ACGAN) on the MNIST dataset.
 
 [More details on Auxiliary Classifier GANs.](https://arxiv.org/abs/1610.09585)
 
